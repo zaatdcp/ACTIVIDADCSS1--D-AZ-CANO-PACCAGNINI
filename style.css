@@ -1,0 +1,12 @@
+p { color: #2f2e78; font-family: Verdana; }
+
+.importante { background-color: #eddd2f; font-weight: 800; }
+
+#especial { margin: 3px solid green; padding:
+10px; }
+
+*{ margin: 10px; padding: 5px; }
+
+h1, h2 { color: #ab1123; text-align:
+center; }
+p.importante { color: #BC00FF; }
